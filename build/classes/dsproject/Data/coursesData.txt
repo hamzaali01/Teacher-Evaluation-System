@@ -1,0 +1,29 @@
+CSE141 IntroductiontoProgramming 4	CS Core	
+CSE145 IntroductiontoComputing 3	CS Core	
+MTS101 Calculus-IwithPlaneGeometry 3	NS Program Core	
+SSC103 EnglishGrammar&Composition 3	University Core	
+SSC151 PakistanHistory  3	University Core	
+CSE142 ObjectOrientedProgrammingTechniques 4	CS Core	Introduction to Programming (CSE141)
+HUM201 SpeechCommunication 3	University Core	English Grammar & Composition (SSC103)
+MTS102 IntroductiontoStatistics 3	NS Program Core	
+MTS211 DiscreteMathematics 3	CS Core	Calculus-I (MTS101)
+MTS232 Calculus-IIwithSolid Geometry 3	NS Program Core	Calculus-I (MTS101)
+SCI102 Physics 3	NS Program Core	
+CSE241 DigitalLogicDesign 4	CS Core	Introduction to Computing (CSE145)
+CSE247 DataStructures 4	CS Core	Object Oriented Programming Techniques (CSE142) Discrete Mathematics (MTS211)
+MTS203 LinearAlgebra 3	NS Program Core	Calculus-I (MTS101)
+MTS306 NumericalAnalysis 3	NS Program Core	Calculus-II (MTS232)
+CSE307 IntroductiontoArtificialIntelligence 3	CS Core	Data Structures (CSE247)
+CSE248 ComputerCommunication&Networking 4	CS Core	Object Oriented Programming Techniques (CSE142)
+CSE309 TheoryofAutomata 3	CS Core	Introduction to Programming (CSE141)
+CSE345 ComputerArchitecture&Assembly Language 4	CS Core	Data Structures (CSE247)
+SSC301 SocioeconomicPhilosophyofIslam  3	University Core			
+CSE312 SoftwareEngineering 3	CS Core	Data Structures (CSE247)
+CSE331 OperatingSystems 3	CS Core	Computer Architecture & Assembly Language (CSE345)
+CSE341 DatabaseSystems 4	CS Core	Data Structures (CSE247)
+MGT211 BusinessCommunication 3	NS Program Core	Speech Communication (HUM201)
+CSE317 Design&AnalysisofAlgorithm 3	CS Core	Data Structures (CSE247)
+CSE441 SystemsProgramming 4	CS Core	Operating Systems (CSE331)		
+SSC240 PersonalEffectiveness 3		
+CSE407 HumanComputerInteraction 3	CS Core	Software Engineering (CSE312)
+			
